@@ -1,0 +1,6 @@
+﻿services:
+  medicalhub:
+    image: medicalhub
+    build:
+      context: .
+      dockerfile: MedicalHub/Dockerfile

@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalHub", "MedicalHub\MedicalHub.csproj", "{B3AC1BE2-AFA4-44AD-B2B7-C485C440AB18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3BA43F40-2830-49F1-8BF0-DE44599A3F66}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3AC1BE2-AFA4-44AD-B2B7-C485C440AB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AC1BE2-AFA4-44AD-B2B7-C485C440AB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AC1BE2-AFA4-44AD-B2B7-C485C440AB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AC1BE2-AFA4-44AD-B2B7-C485C440AB18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

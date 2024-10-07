@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XnM6FIJqr33Yq8cxQ9dqmPfd7pLPfgxZIRo19PLRX2U=",
+  "Source": "MedicalHub",
+  "BasePath": "_content/MedicalHub",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
